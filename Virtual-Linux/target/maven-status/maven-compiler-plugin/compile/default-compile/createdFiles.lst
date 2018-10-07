@@ -1,0 +1,5 @@
+com\playment\virtuallinux\core\CommandImplementer.class
+com\playment\virtuallinux\type\Directory.class
+com\playment\virtuallinux\type\SupportedCommands.class
+com\playment\virtuallinux\InitApplication.class
+com\playment\virtuallinux\core\CommandImplementer$1.class
